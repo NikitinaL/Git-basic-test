@@ -1,5 +1,0 @@
-print ("hello world;")
-print ("hello everybody;")
-print ("hello people;")
-print ("hello world;")
-print ("hello everybody;")
